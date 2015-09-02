@@ -17,7 +17,7 @@
 
 系统支持
 =======
-*  win xp/7/8/10
+*  windows xp/7/8/10
 
 感谢
 ====
@@ -28,4 +28,4 @@
 附图
 =====
 firefox状态页
-![firefox_status](http://image.baidu.com/detail/newindex?col=&tag=&pn=0&pid=27416786580&aid=405328230&user_id=162128636&setid=-1&sort=0&newsPn=&star=&fr=&from=2)
+![firefox_status](http://e.hiphotos.baidu.com/image/pic/item/9e3df8dcd100baa159e758e94110b912c9fc2e9c.jpg)
