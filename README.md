@@ -7,7 +7,7 @@
 =======
 * 本地下载： https://github.com/yeahwu/firefox/archive/master.zip
 * 百度网盘：    http://pan.baidu.com/s/1dDFahHJ
-* 解压后用firefox.vbs启动。
+* 解压错误的用7-zip解压，解压后用firefox.vbs启动。
 
 特色
 =======
