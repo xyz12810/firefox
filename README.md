@@ -12,9 +12,9 @@
 
 下载
 =======
-* 点击右边Downloan ZIP下载，解压后用firefox.vbs启动。
-* 或者点击这里下载： https://github.com/yeahwu/firefox/archive/master.zip
+* 本地下载： https://github.com/yeahwu/firefox/archive/master.zip
 * 百度网盘：    http://pan.baidu.com/s/1ntjBID7
+* 解压后用firefox.vbs启动。
 
 系统支持
 =======
