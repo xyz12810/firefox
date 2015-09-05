@@ -5,8 +5,8 @@
 
 下载
 =======
-* 本地下载： https://github.com/yeahwu/firefox/archive/master.zip
-* 百度网盘：    http://pan.baidu.com/s/1dDFahHJ
+* 本地下载： https://github.com/yeahwu/firefox/archive/master.zip (lantern2.0.2版）
+* 百度网盘：    http://pan.baidu.com/s/1dDFahHJ  (防DDoS版）
 * 解压错误的用7-zip解压，解压后用firefox.vbs启动。
 
 特色
