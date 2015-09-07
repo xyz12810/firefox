@@ -1,13 +1,15 @@
-蓝灯地域性封锁比较严重，建议封锁比较严重的地区用DDoS版。
+蓝灯地域性封锁比较严重，建议封锁比较严重的地区分别尝试解锁版和DDoS版。
 ================
 更新日志   
 =========
+* 9月7日 ， 更新lantern为2B11解锁特别版，专供封锁地区。
 * 9月2日 ， 更新firefox为中文40.0.3版，lantern2.01，防DDoS版。
 * 8月20日，已经把蓝灯更新到2.01版，firefox还是40版。
 
 下载
 =======
-* 本地下载： https://github.com/yeahwu/firefox/archive/master.zip (lantern2.0.2版）
+* 本地下载： https://github.com/yeahwu/firefox/archive/master.zip (lantern2B11解锁版）
+  - 把文件夹里面的lantern-9999.99.99.yaml 放到以下Appdata目录：C:\Users（用户）\Administrator（用户名）\AppData\Roaming\Lantern\；如果文件夹里面存在lantern.yaml文件，请全部删除后，再添加lantern-9999.99.99.yaml
 * 百度网盘：    http://pan.baidu.com/s/1dDFahHJ  (防DDoS版）
 * 解压错误的用7-zip解压，解压后用firefox.vbs启动。
 
