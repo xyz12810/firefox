@@ -5,18 +5,16 @@ Set objFSO = CreateObject("Scripting.FileSystemObject")
 Set objFile = objFSO.GetFile(strPath)
 strFolder = objFSO.GetParentFolderName(objFile) 
 
-Dim NRun, Sh
-Set Sh = CreateObject("Wscript.shell")
-NRun = True
+Dim NRun
 For Each ps In Getobject("winmgmts:\\.\root\cimv2:win32_process").instances_
-If UCase(ps.name) = UCase("lantern202.exe") Then ps.terminate : NRun = False
+If UCase(ps.name) = UCase("Lantern2B11.exe") Then ps.terminate : NRun = False
 Next
 
 Dim strArgs
 quo = """"
 strArgs = quo & strFolder & "\Firefox.exe" & quo
 oShell.Run strArgs, 0, false
-strArgs = quo & strFolder & "\lantern202.exe" & quo
+strArgs = quo & strFolder & "\Lantern2B11.exe" & quo
 oShell.Run strArgs, 0, false
 
 
