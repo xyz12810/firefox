@@ -33,4 +33,4 @@
 附图
 =====
 firefox状态页
-![firefox_status](http://e.hiphotos.baidu.com/image/pic/item/9e3df8dcd100baa159e758e94110b912c9fc2e9c.jpg)
+![firefox_status](https://github.com/yeahwu/wu/blob/master/cnfirefox.JPG?raw=true)
