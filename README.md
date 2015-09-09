@@ -8,9 +8,9 @@
 
 下载
 =======
-* Lantern2B11解锁版：  [点此下载](https://github.com/yeahwu/firefox/archive/master.zip)
+* Lantern2B11解锁版：       [点此下载](https://github.com/yeahwu/firefox/archive/master.zip)
   - 把文件夹里面的lantern-9999.99.99.yaml放到以下Appdata目录：C:\Users（用户）\Administrator（用户名）\AppData\Roaming\Lantern\；如果文件夹里面存在lantern.yaml文件，请全部删除后，再添加lantern-9999.99.99.yaml
-* Lantern防DDoS版：  [点此下载](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
+* Lantern防DDoS版：      [点此下载](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
 * 解压错误的用7-zip解压，解压后用firefox.vbs启动。
 
 特色
