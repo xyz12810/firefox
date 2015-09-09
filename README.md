@@ -1,6 +1,6 @@
 ## 蓝灯地域性封锁比较严重，建议封锁比较严重的地区分别尝试解锁版和DDoS版。
 
-Firefox40+Lantern
+Firefox+Lantern
 =================
 * 项目状态：Firefox40.0.3集成Lantern2B11解锁版。
   - 把文件夹里面的lantern-9999.99.99.yaml放到以下Appdata目录：C:\Users（用户）\Administrator（用户名）\AppData\Roaming\Lantern\；如果文件夹里面存在lantern.yaml文件，请删除后，再添加lantern-9999.99.99.yaml。然后点击firefox.vbs启动即可出墙。
