@@ -7,9 +7,9 @@ Firefox+Lantern
 
 下载
 =======
-* Lantern2B11解锁版：  [戳这，你没看错，戳这下载](https://github.com/yeahwu/firefox/archive/master.zip)
+* [Lantern2B11解锁版](https://github.com/yeahwu/firefox/archive/master.zip)
   
-* Lantern防DDoS版：  [还是戳这，戳这下载](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
+* [Lantern防DDoS版](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
 
 * 解压错误的用7-zip解压，解压后用firefox.vbs启动。
 
