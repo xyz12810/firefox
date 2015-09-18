@@ -8,12 +8,12 @@ strFolder = objFSO.GetParentFolderName(objFile)
 Dim NRun
 NRun = True
 For Each ps In Getobject("winmgmts:\\.\root\cimv2:win32_process").instances_
-If UCase(ps.name) = UCase("Lantern2B11.exe") Then ps.terminate : NRun = False
+If UCase(ps.name) = UCase("lantern_15.9.2.exe") Then ps.terminate : NRun = False
 Next
 
 Dim strArgs
 quo = """"
 strArgs = quo & strFolder & "\Firefox.exe" & quo
 oShell.Run strArgs, 0, false
-strArgs = quo & strFolder & "\Lantern2B11.exe" & quo
+strArgs = quo & strFolder & "\lantern_15.9.2.exe" & quo
 oShell.Run strArgs, 0, false
