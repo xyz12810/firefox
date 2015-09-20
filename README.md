@@ -9,6 +9,8 @@ Firefox+Lantern
 * [Firefox40集成Lantern9.18更新版](https://github.com/yeahwu/firefox/archive/master.zip)
   
 * [Firefox40集成Lantern防DDoS版](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
+ 
+* [历史版本](https://github.com/yeahwu/firefox/releases)
 
 * 解压错误的用7-zip解压，解压后用firefox.vbs启动。
 
