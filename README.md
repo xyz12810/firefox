@@ -24,19 +24,17 @@ Firefox+Lantern
 系统支持
 =======
 *  windows xp/7/8/10
+ 
+联系
+=====
+* [Goolge+](https://plus.google.com/communities/101215702940766881013)
+* [Twitter](https://twitter.com/yeahwu404)
 
 感谢
 ====
 * kingtope...@gmail.com
 * lantern
 * PortableApps
-
-联系
-=====
-[Goolge+](https://plus.google.com/communities/101215702940766881013)
-
-[Twitter](https://twitter.com/yeahwu404)
-
 
 附图
 =====
