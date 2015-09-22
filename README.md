@@ -31,6 +31,13 @@ Firefox+Lantern
 * lantern
 * PortableApps
 
+联系
+=====
+[Goolge+](https://plus.google.com/communities/101215702940766881013)
+
+[Twitter](https://twitter.com/yeahwu404)
+
+
 附图
 =====
 firefox状态页
