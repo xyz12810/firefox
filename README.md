@@ -1,12 +1,12 @@
 
 Firefox+Lantern
 =================
-* 项目状态：Firefox40.0.3集成Lantern9.18更新版。
+* 项目状态：Firefox40.0.3集成Lantern2.0.6更新版。
   - 把文件夹里面的.packaged-lantern.yaml放到以下Appdata目录：C:\Users（用户）\Administrator（用户名）\AppData\Roaming\Lantern\；如果文件夹里面存在后缀为yaml的文件，请全部删除后，再添加.packaged-lantern.yaml。然后点击firefox.vbs启动即可连接到岛国服务器。
 
 下载
 =======
-* [Firefox40集成Lantern9.18更新版](https://github.com/yeahwu/firefox/archive/master.zip)
+* [Firefox40集成Lantern2.0.6版](https://github.com/yeahwu/firefox/archive/master.zip)
   
 * [Firefox40集成Lantern防DDoS版](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
  
