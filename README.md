@@ -1,15 +1,16 @@
-## 蓝灯地域性封锁比较严重，建议封锁比较严重的地区分别尝试解锁版和DDoS版。
 
 Firefox+Lantern
 =================
-* 项目状态：Firefox40.0.3集成Lantern2B11解锁版。
-  - 把文件夹里面的lantern-9999.99.99.yaml放到以下Appdata目录：C:\Users（用户）\Administrator（用户名）\AppData\Roaming\Lantern\；如果文件夹里面存在lantern.yaml文件，请删除后，再添加lantern-9999.99.99.yaml。然后点击firefox.vbs启动即可出墙。
+* 项目状态：Firefox40.0.3集成Lantern2.0.6更新版。
+  - 把文件夹里面的.packaged-lantern.yaml放到以下Appdata目录：C:\Users（用户）\Administrator（用户名）\AppData\Roaming\Lantern\；如果文件夹里面存在后缀为yaml的文件，请全部删除后，再添加.packaged-lantern.yaml。然后点击firefox.vbs启动即可连接到岛国服务器。
 
 下载
 =======
-* [Firefox40集成Lantern2B11解锁版](https://github.com/yeahwu/firefox/archive/master.zip)
+* [Firefox40集成Lantern2.0.6版](https://github.com/yeahwu/firefox/archive/master.zip)
   
 * [Firefox40集成Lantern防DDoS版](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
+ 
+* [历史版本](https://github.com/yeahwu/firefox/releases)
 
 * 解压错误的用7-zip解压，解压后用firefox.vbs启动。
 
@@ -23,6 +24,11 @@ Firefox+Lantern
 系统支持
 =======
 *  windows xp/7/8/10
+ 
+联系
+=====
+* [Goolge+](https://plus.google.com/communities/101215702940766881013)
+* [Twitter](https://twitter.com/yeahwu404)
 
 感谢
 ====
