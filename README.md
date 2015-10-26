@@ -1,8 +1,7 @@
-
 Firefox+Lantern
 =================
-* 项目状态：Firefox40.0.3集成Lantern2.0.10更新版。
-  - 删除掉Appdata目录：C:\Users（用户）\Administrator（用户名）\AppData\Roaming\Lantern\；文件夹里面存在后缀为yaml的文件。然后点击firefox.vbs启动即可。
+* 项目状态：Firefox40.0.3集成Lantern2.0.10编译版。
+  - 点击firefox.vbs启动
 
 下载
 =======
@@ -16,8 +15,8 @@ Firefox+Lantern
 
 特色
 =======
-* 不用任何配置打开即可出墙。中文firefox修改。点击firefox.vbs启动。
-* firefox40+Lantern,经过精简，lantern为去pac、去弹窗、防DDoS，编译版本。
+* 不用任何配置打开即可出墙。原生firefox修改。
+* firefox40+Lantern,lantern为去pac、去弹窗、防DDoS，编译版本。
 * 启动前会检查进程，所以不管怎么启动关闭，系统只保留一个进程。也就是不会弹出lantern窗口。
 * 注（部分杀软对lantern报毒，这个我也是无力吐槽，开源的软件居然会被报毒。介意的请不要下载！）
 
