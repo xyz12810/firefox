@@ -1,11 +1,11 @@
 Firefox+Lantern
 =================
-* 项目状态：Firefox40.0.3集成Lantern2.0.10编译版。10月26日更新。
+* 项目状态：Firefox41.0.2集成Lantern2.0.10编译版。10月26日更新。
   - 点击firefox.vbs启动
 
 下载
 =======
-* [Firefox40集成Lantern2.0.10版](https://github.com/yeahwu/firefox/archive/master.zip)
+* [Firefox41集成Lantern2.0.10版](https://github.com/yeahwu/firefox/archive/master.zip)
   
 * [Firefox40集成Lantern防DDoS版](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
  
