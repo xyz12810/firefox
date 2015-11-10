@@ -29,7 +29,7 @@ Firefox+Lantern
 
 感谢
 ====
-* kingtope...@gmail.com
+* Gary12
 * lantern
 * PortableApps
 
