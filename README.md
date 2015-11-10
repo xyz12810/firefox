@@ -7,7 +7,7 @@ Firefox+Lantern
 =======
 * [Firefox41集成Lantern2.0.10版](https://github.com/yeahwu/firefox/archive/master.zip)
   
-* [Firefox40集成Lantern防DDoS版](https://github.com/yeahwu/wu/releases/download/Firefox/Firefox.DDoS.zip) 
+* Sync同步密匙：  BUEBAMSPGIRBRKMWKZ6WGF4L6ZZB7AMIZ
  
 * [历史版本](https://github.com/yeahwu/firefox/releases)
 
