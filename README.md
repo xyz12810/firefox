@@ -11,8 +11,6 @@ Firefox+Lantern
  
 * [历史版本](https://github.com/yeahwu/firefox/releases)
 
-* 解压错误的用7-zip解压，解压后用firefox.vbs启动。
-
 特色
 =======
 * 不用任何配置打开即可出墙。原生firefox修改。
