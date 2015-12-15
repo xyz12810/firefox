@@ -1,6 +1,6 @@
 Firefox+Lantern
 =================
-* 项目状态：Firefox41.0.2集成Lantern2.0.10编译版。11月19日更新。
+* 项目状态：Firefox41.0.2集成Lantern2.0.10编译版。12月15日更新。
   - 点击Firefox.vbs启动
 
 下载
