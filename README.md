@@ -5,7 +5,7 @@ Firefox+Lantern
 
 下载
 =======
-* [Firefox41集成Lantern2.0.10版](https://github.com/yeahwu/firefox/archive/master.zip)
+* [Firefox43集成Lantern2.0.10版](https://github.com/yeahwu/firefox/archive/master.zip)
   
  
 * [历史版本](https://github.com/yeahwu/firefox/releases)
