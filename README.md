@@ -34,4 +34,4 @@ Firefox+Lantern
 附图
 =====
 firefox状态页
-![firefox_status](https://github.com/yeahwu/wu/blob/master/firefox8.JPG?raw=true)
+![firefox_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefox0.JPG)
