@@ -1,4 +1,4 @@
-Firefox+Lantern
+Firefox集成Lantern
 -----------
 
 * 项目状态：Firefox43.0.3集成Lantern2.0.16最新源码编译。2月20日更新。
