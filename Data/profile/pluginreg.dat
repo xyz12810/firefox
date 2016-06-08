@@ -5,15 +5,6 @@ Version|0.17|$
 Arch|x86-msvc|$
 
 [PLUGINS]
-npxunlei.dll|$
-C:\Program Files (x86)\Thunder Network\Thunder\BHO\npxunlei.dll|$
-1.0.0.2|$
-1389949850000|0|0|0|$
-Xunlei scriptability Plugin|$
-XunLei Plugin|$
-2
-0|application/np_xunlei_plugin|np_xunlei_plugin|*|$
-1|application/np_xunlei_plugin.2|||$
 nptxftnWebKit.dll|$
 C:\Program Files (x86)\QQMailPlugin\nptxftnWebKit.dll|$
 1.0.1.16|$
@@ -68,11 +59,11 @@ iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin|$
 3|application/hwpta.itrushwpta|hwPTA||$
 4|application/hwwdkey.installwdkey|hwWDkey||$
 5|application/hwepass2001.installepass2001|HwEpass2001||$
-NPSWF32_18_0_0_232.dll|$
-C:\Windows\SysWOW64\Macromed\Flash\NPSWF32_18_0_0_232.dll|$
-18.0.0.232|$
-1439544113130|0|0|0|$
-Shockwave Flash 18.0 r0|$
+NPSWF32_20_0_0_267.dll|$
+C:\Windows\SysWOW64\Macromed\Flash\NPSWF32_20_0_0_267.dll|$
+20.0.0.267|$
+1452065106675|0|0|0|$
+Shockwave Flash 20.0 r0|$
 Shockwave Flash|$
 2
 0|application/x-shockwave-flash|Adobe Flash movie|swf|$
